@@ -1,5 +1,8 @@
-# Azure Function App
+# DEPRECATED - Azure Function App
 [![Changelog](https://img.shields.io/badge/changelog-release-green.svg)](CHANGELOG.md) [![Notice](https://img.shields.io/badge/notice-copyright-yellow.svg)](NOTICE) [![Apache V2 License](https://img.shields.io/badge/license-Apache%20V2-orange.svg)](LICENSE) [![TF Registry](https://img.shields.io/badge/terraform-registry-blue.svg)](https://registry.terraform.io/modules/claranet/function-app-single/azurerm/)
+
+| ⚠ This module is deprecated, please use [function-app](https://registry.terraform.io/modules/claranet/function-app/azurerm/) module |
+|-------------------------------------------------------------------------------------------------------------------------------------|
 
 This Terraform feature creates an [Azure Function App](https://docs.microsoft.com/en-us/azure/azure-functions/).
 A [Storage Account](https://docs.microsoft.com/en-us/azure/storage/) and an [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) 
