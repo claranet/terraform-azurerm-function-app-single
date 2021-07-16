@@ -1,4 +1,4 @@
-# Unreleased
+# v4.3.1 - 2021-07-16
 
 Deprecating
   * AZ-488: Deprecating this module in favor of `function-app`
